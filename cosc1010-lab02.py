@@ -1,9 +1,9 @@
-# Your Name Here
+# Batel Aldighim
 # UWYO COSC 1010
-# Submission Date
+# Submission Date 9/19
 # Lab 02 
-# Lab Section: 
-# Sources, people worked with, help given to: 
+# Lab Section: 13
+# Sources, people worked with, help given to: none
 # your
 # comments
 # here
